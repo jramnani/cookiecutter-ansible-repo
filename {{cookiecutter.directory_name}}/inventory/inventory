@@ -1,0 +1,4 @@
+# Static inventory file
+# http://docs.ansible.com/ansible/intro_inventory.html
+
+localhost

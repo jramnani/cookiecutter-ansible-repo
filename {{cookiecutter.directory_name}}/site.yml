@@ -1,0 +1,6 @@
+---
+# Top-level playbook goes here
+- hosts: localhost
+  tasks:
+    - debug:
+        msg: "Hello Ansible."
